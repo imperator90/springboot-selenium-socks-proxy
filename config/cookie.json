@@ -1,0 +1,169 @@
+[ {
+  "name" : "_gat_gtag_UA_68628022_1",
+  "value" : "1",
+  "path" : "/",
+  "domain" : ".thiendia.me",
+  "expiry" : 1588151298000,
+  "secure" : false,
+  "httpOnly" : false
+}, {
+  "name" : "lsc_active",
+  "value" : "1",
+  "path" : "/diendan",
+  "domain" : ".thiendia.me",
+  "expiry" : null,
+  "secure" : true,
+  "httpOnly" : false
+}, {
+  "name" : "__cf_bm",
+  "value" : "bbc1a50612b3cc7ff010b22293f9707611adddd8-1588150973-1800-AddlbgBFaqWp2F6wdoc2KpCLvjLvpnPge9cfhMA2FO3TEsMgBDp/FzpDVJWF2d6jn7jPM37PMexDS81c/ra2mnObHZKlA0HFqlsdIHJPaoT7",
+  "path" : "/",
+  "domain" : ".thiendia.me",
+  "expiry" : 1588152773000,
+  "secure" : true,
+  "httpOnly" : true
+}, {
+  "name" : "ct_pointer_data",
+  "value" : "%5B%5B295%2C1126%2C518%5D%2C%5B178%2C1171%2C617%5D%2C%5B85%2C1187%2C933%5D%2C%5B80%2C1211%2C1283%5D%2C%5B83%2C1257%2C1366%5D%2C%5B75%2C1269%2C1565%5D%2C%5B56%2C1300%2C1950%5D%2C%5B54%2C1487%2C1967%5D%2C%5B5%2C1820%2C3467%5D%2C%5B71%2C1841%2C3616%5D%2C%5B200%2C1842%2C9497%5D%2C%5B228%2C1757%2C9615%5D%2C%5B243%2C1758%2C10286%5D%2C%5B239%2C1702%2C10365%5D%2C%5B207%2C1485%2C10520%5D%2C%5B188%2C1340%2C10668%5D%5D",
+  "path" : "/",
+  "domain" : "thiendia.me",
+  "expiry" : null,
+  "secure" : false,
+  "httpOnly" : false
+}, {
+  "name" : "xf_vim|mudim-settings",
+  "value" : "26",
+  "path" : "/",
+  "domain" : "thiendia.me",
+  "expiry" : 1588756096000,
+  "secure" : false,
+  "httpOnly" : false
+}, {
+  "name" : "ct_pointer_data",
+  "value" : "%5B%5B42%2C661%2C267%5D%2C%5B42%2C610%2C307%5D%2C%5B51%2C571%2C457%5D%2C%5B45%2C628%2C607%5D%2C%5B38%2C659%2C757%5D%2C%5B29%2C668%2C1091%5D%5D",
+  "path" : "/",
+  "domain" : ".thiendia.me",
+  "expiry" : null,
+  "secure" : true,
+  "httpOnly" : false
+}, {
+  "name" : "lauxanh",
+  "value" : "Wed%20Apr%2029%202020%2016%3A05%3A02%20GMT+0700%20%28Indochina%20Time%29",
+  "path" : "/",
+  "domain" : "thiendia.me",
+  "expiry" : 2556143999000,
+  "secure" : false,
+  "httpOnly" : false
+}, {
+  "name" : "lauxanh",
+  "value" : "Mon%20Apr%2027%202020%2017%3A45%3A12%20GMT+0700%20%28Indochina%20Time%29",
+  "path" : "/",
+  "domain" : ".thiendia.me",
+  "expiry" : 2556143999000,
+  "secure" : true,
+  "httpOnly" : false
+}, {
+  "name" : "_gid",
+  "value" : "GA1.2.1557303027.1588150974",
+  "path" : "/",
+  "domain" : ".thiendia.me",
+  "expiry" : 1588237680000,
+  "secure" : false,
+  "httpOnly" : false
+}, {
+  "name" : "__cfduid",
+  "value" : "df064e5bc5fee59d28733e85554a5cb111587984308",
+  "path" : "/",
+  "domain" : ".thiendia.me",
+  "expiry" : 1590576308000,
+  "secure" : true,
+  "httpOnly" : false
+}, {
+  "name" : "xf_session",
+  "value" : "0327c42f8ab149faaee4e91a48b2c727",
+  "path" : "/",
+  "domain" : "thiendia.me",
+  "expiry" : null,
+  "secure" : true,
+  "httpOnly" : true
+}, {
+  "name" : "xf_session",
+  "value" : "c35cf7f4d02bb149ae46ac3359c806df",
+  "path" : "/",
+  "domain" : ".thiendia.me",
+  "expiry" : null,
+  "secure" : true,
+  "httpOnly" : false
+}, {
+  "name" : "xf_user",
+  "value" : "1580063%2C23ac2e31cec1bb117d645308a9a99dbd993f4bbd",
+  "path" : "/",
+  "domain" : "thiendia.me",
+  "expiry" : 1590743279000,
+  "secure" : true,
+  "httpOnly" : true
+}, {
+  "name" : "_ga",
+  "value" : "GA1.2.584239575.1587984314",
+  "path" : "/",
+  "domain" : ".thiendia.me",
+  "expiry" : 1651223280000,
+  "secure" : false,
+  "httpOnly" : false
+}, {
+  "name" : "lauxanh5",
+  "value" : "Wed%20Apr%2029%202020%2016%3A05%3A31%20GMT+0700%20%28Indochina%20Time%29",
+  "path" : "/",
+  "domain" : "thiendia.me",
+  "expiry" : 2556143999000,
+  "secure" : false,
+  "httpOnly" : false
+}, {
+  "name" : "ct_fkp_timestamp",
+  "value" : "1588151290",
+  "path" : "/",
+  "domain" : "thiendia.me",
+  "expiry" : null,
+  "secure" : false,
+  "httpOnly" : false
+}, {
+  "name" : "ct_fkp_timestamp",
+  "value" : "0",
+  "path" : "/",
+  "domain" : ".thiendia.me",
+  "expiry" : null,
+  "secure" : true,
+  "httpOnly" : false
+}, {
+  "name" : "ct_timezone",
+  "value" : "7",
+  "path" : "/",
+  "domain" : ".thiendia.me",
+  "expiry" : null,
+  "secure" : true,
+  "httpOnly" : false
+}, {
+  "name" : "ct_ps_timestamp",
+  "value" : "1588151280",
+  "path" : "/",
+  "domain" : "thiendia.me",
+  "expiry" : null,
+  "secure" : false,
+  "httpOnly" : false
+}, {
+  "name" : "_lscache_vary",
+  "value" : "1",
+  "path" : "/",
+  "domain" : "thiendia.me",
+  "expiry" : 1590743278000,
+  "secure" : true,
+  "httpOnly" : true
+}, {
+  "name" : "ct_ps_timestamp",
+  "value" : "1587984323",
+  "path" : "/",
+  "domain" : ".thiendia.me",
+  "expiry" : null,
+  "secure" : true,
+  "httpOnly" : false
+} ]

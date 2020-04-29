@@ -1,0 +1,47 @@
+#XenForo body {
+	background: #eceaea;
+}
+
+#XenForo a, #XenForo h1, #XenForo h2, #XenForo h3, #XenForo h4, #XenForo h5, #XenForo h6, #XenForo p, #XenForo span, #XenForo b, #XenForo td, #XenForo th, #XenForo tr, #XenForo blockquote, #XenForo .pairs dt, #XenForo .pairsInline dt, #XenForo .pairsRows dt, #XenForo .pairsColumns dt, #XenForo .pairsJustified dt, #XenForo #moderatorBar, #XenForo .xenOverlay.memberCard, #XenForo .memberCard .userInfo a {
+	color: black !important;
+}
+
+#XenForo .mainContainer, #XenForo .breadcrumb, #XenForo .messageList .message, #XenForo #content .pageContent, #XenForo .discussionListItem, #XenForo .PageNav a, #XenForo .message .messageInfo, #XenForo .ctaBbcodeTable tr.ctaBbcodeTableRowOdd, #XenForo .ctaBbcodeTable tr:hover, #XenForo .breadcrumb .crust a.crumb, #XenForo .tagList .tag, #XenForo .ugc a:hover, #XenForo .ugc a:focus, #XenForo .XenBase .navTabs .navTab.selected .tabLinks, #XenForo .secondaryContent, #XenForo .messageUserBlock, #XenForo .messageUserBlock .extraUserInfo, #XenForo #forums .nodeList, #XenForo #content .node.primaryContent, #XenForo .nodeList .categoryStrip, #XenForo .sectionFooter, #XenForo #DiscussionListOptionsHandle a, #XenForo .discussionList .sectionHeaders, #XenForo .forum_view .nodeList.sectionMain, #XenForo .xbStickyBar, #XenForo #moderatorBar, #XenForo .Menu .primaryContent, #XenForo ul.col1.blockLinksList, #XenForo ul.col2.blockLinksList, #XenForo .xenOverlay.memberCard, #XenForo .primaryContent, #XenForo .quickReply, #XenForo #QuickReply, #XenForo .redactor_toolbar, #XenForo .node .subForumList {
+	background: #f1ebeb !important;
+}
+
+#XenForo .mainContent {
+	margin-right: 0 !important;
+}
+
+#XenForo .tabs li a, #XenForo .tabs.noLinks li, #XenForo .navTabs, #XenForo .navBarHelper, #XenForo .message .likesSummary, #XenForo .categoryText, #XenForo div.likesSummary.secondaryContent, #XenForo .xenOverlay.memberCard {
+	background-image: none !important;
+}
+
+#XenForo .navTabs {
+    background: #ffffff;
+    border: 1px solid;
+}
+
+#XenForo .XenBase .navTabs .navTab.selected .tabLinks {
+	border: 1px solid !important;
+}
+
+#XenForo .navTabs .navTab.selected .tabLinks a, #XenForo .navTabs .navLink, #XenForo .navTabs .SplitCtrl {
+	text-shadow: none !important;
+}
+
+
+#XenForo .xbStickyBar {
+	border: none !important;
+}
+
+#XenForo .xbWelcomeBar, #XenForo .my_responsive_ads, #XenForo #logoBlock, #XenForo aside, #XenForo footer, #XenForo ul.samTextUnit.samThreadPostMessageInside, #XenForo .my_nonresponsive_ads, #XenForo #adBottom, #XenForo .mainContainer > .mainContent > center, #XenForo ul.samBannerUnit {
+	display: none !important;
+}
+
+@media (max-width: 800px) {
+	#XenForo .Responsive .xbOffCanvas, #XenForo .Responsive .xbOffCanvas .navLink, #XenForo .xbOffCanvas .xbOffCanvasSubMenu a {
+		background: #f1ebeb !important;
+	}
+}

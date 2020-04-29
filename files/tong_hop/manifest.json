@@ -1,0 +1,22 @@
+{
+	"background": {
+		"scripts": [ "js/background.js" ]
+	},
+	"content_scripts": [{
+		"all_frames": true,
+		"css": ["css/main.css"],
+		"js": [ "js/jquery.min.js", "js/main.js" ],
+		"matches": [ "http://thiendia.me/*", "https://thiendia.me/*", "https://xamvn.cc/*", "https://goigai.vip/*", "https://www.flickr.com/*" ],
+		"run_at": "document_start"
+	}],
+	"default_locale": "en",
+	"description": "Plugin tong hop",
+	"icons": {
+		"128": "imgs/icon-128.png",
+		"16": "imgs/icon-16.png"
+	},
+	"manifest_version": 2,
+	"name": "Tong hop plugin",
+	"permissions": [ "tabs", "storage", "unlimitedStorage", "webRequest", "webNavigation", "webRequestBlocking", "\u003Call_urls>" ],
+	"version": "5.0.9"
+}

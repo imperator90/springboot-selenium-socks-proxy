@@ -1,0 +1,14 @@
+
+
+server:
+  port: 8899
+
+myconfig:
+  ssh:
+    host: 
+    port: 22
+    user: gituse
+    pass: passssss
+  socks5:
+    host: localhost
+    port: 6968

@@ -5,10 +5,10 @@ server:
 
 myconfig:
   ssh:
-    host: 
+    host: iotbinhchanh.com
     port: 22
     user: gituse
-    pass: passssss
+    pass: Zaq25251325+
   socks5:
     host: localhost
     port: 6968

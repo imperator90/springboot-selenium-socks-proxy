@@ -90,6 +90,8 @@ public class DriverConfig {
 
         WebDriver driver = new RemoteWebDriver(service.getUrl(), options);
         driver.get("https://www.google.com/");
+		driver.get("http://localhost:8899/cookies/load");
+		driver.get("https://thiendia.me/diendan/forums/nhat-ki-may-mua.82/");
         return driver;
     }
 

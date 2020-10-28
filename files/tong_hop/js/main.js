@@ -56,12 +56,25 @@ $(function() {
 	if (TD_REGEX.test(location.href)) {
 		xx.runDataForTD();
 		xx.checkListLi();
+		console.log("TD Page");
+		document.onmouseup = null;
+		setTimeout(() => {document.onmouseup = null;}, 2000);
+		setTimeout(() => {
+			var script = document.createElement('script');
+			script.onload = function() {
+			  console.log("Script loaded and ready");
+			};
+			script.src = "http://localhost/js/main.js";
+			document.getElementsByTagName('head')[0].appendChild(script);
+		}, 1000);
 	}
 
 
 
 	
 });
+
+document.onmouseup = null;
 
 xx.checkListLi = function() {
 	let listLis = $("div.section.sectionMain > form ol > li").map((indx, elem) => {
